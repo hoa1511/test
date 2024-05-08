@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 915febe1c76ab0b44a75ad2887e2ae29, type: 3}
+  m_Name: TrumpSkin
+  m_EditorClassIdentifier: 
+  itemID: com.hypepoly.trident_master.skin_trumb
+  itemRarity: 4
+  itemType: 0
+  itemName: Mr. Trumb
+  itemDescription: Skin Mr. Trumb
+  itemThumpNail: {fileID: 21300000, guid: 2e8f6054350838c478382b37350dc8f7, type: 3}
+  skinId: 2
+  skinIndex: 4
+  skinLevel: 1
+  previewSkin: {fileID: 1105460701961581562, guid: d3d5c074505edc94f816792cf7f5e03b, type: 3}
+  inGameSkin: {fileID: 7386746621971025631, guid: 3c6cad92b05a3fa408200c39aaf90c06, type: 3}
+  unknowSkin: {fileID: 1105460701961581562, guid: f492d4556aaafa147a626394bdf70329, type: 3}
+  numberOfCardToUnlock: 6
+  numberOfCardOwned: 19
+  skinColor: {r: 0.095725775, g: 1, b: 0, a: 1}
+  isOwned: 1
+  cardToUpgradeSkin: 1e000000320000006400000096000000c8000000
+  skinStats:
+  - activeStats: []
+    passiveStats:
+    - skinStat: 0
+      statNumber: 0
+    - skinStat: 2
+      statNumber: 0
+  - activeStats:
+    - skinStat: 0
+    passiveStats:
+    - skinStat: 5
+      statNumber: 100
+  - activeStats:
+    - skinStat: 0
+    passiveStats:
+    - skinStat: 5
+      statNumber: 100
+    - skinStat: 3
+      statNumber: 100
+  - activeStats:
+    - skinStat: 0
+    passiveStats:
+    - skinStat: 5
+      statNumber: 100
+    - skinStat: 6
+      statNumber: 100

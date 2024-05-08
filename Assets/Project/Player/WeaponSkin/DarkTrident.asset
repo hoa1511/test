@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50e3f5ef1795ed449866e104665e080c, type: 3}
+  m_Name: DarkTrident
+  m_EditorClassIdentifier: 
+  itemID: 
+  itemRarity: 3
+  itemType: 2
+  itemName: DarkTrident
+  itemDescription: Dark
+  itemThumpNail: {fileID: 21300000, guid: 15f530d1fa84b7f41aa7c6a4fbcc0e21, type: 3}
+  weaponId: 3
+  weaponSkinIndex: 1
+  previewWeaponModel: {fileID: 5350251371406464132, guid: ba248ccb42e1fc84a8a0d654b8b8aca5, type: 3}
+  inGameWeaponModel: {fileID: 8900578201151129747, guid: a572ea7fd323cb148aeb18aa215bf8bb, type: 3}
+  weaponColor: {r: 0.4056604, g: 0.4056604, b: 0.4056604, a: 1}
+  weaponMaterial: {fileID: 2100000, guid: 3814bf8738400244196d980926192678, type: 2}
+  levelToUnlock: 10
+  isOwned: 0

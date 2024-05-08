@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33485fb44c109ac45902f638dd637543, type: 3}
+  m_Name: SupremeManCard
+  m_EditorClassIdentifier: 
+  itemID: 
+  itemRarity: 1
+  itemType: 1
+  itemName: Supreme Man Card
+  itemDescription: Card To Unlock Supreme Man Skin
+  itemThumpNail: {fileID: 21300000, guid: 3ae6bb86adb77b34fbea6867052ce2d2, type: 3}
+  skinsIDs: 3

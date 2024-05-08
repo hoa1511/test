@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 915febe1c76ab0b44a75ad2887e2ae29, type: 3}
+  m_Name: NinjaSkin
+  m_EditorClassIdentifier: 
+  itemID: com.hypepoly.trident_master.skin_ninja
+  itemRarity: 3
+  itemType: 0
+  itemName: Ninja
+  itemDescription: Ninja Skin
+  itemThumpNail: {fileID: 21300000, guid: cfd93bb43ad8fc348a72e8365b0ae7b5, type: 3}
+  skinId: 4
+  skinIndex: 2
+  skinLevel: 1
+  previewSkin: {fileID: 2840987451881181358, guid: 4ccdae13a9097b14f9ad788e6a7776c5, type: 3}
+  inGameSkin: {fileID: 3795720700238190716, guid: a7150c28ab3d8e842b32e22d19cf961f, type: 3}
+  unknowSkin: {fileID: 2840987451881181358, guid: ec879a985409e2c46816aa63712c80b2, type: 3}
+  numberOfCardToUnlock: 4
+  numberOfCardOwned: 0
+  skinColor: {r: 0, g: 0.38541698, b: 1, a: 1}
+  isOwned: 1
+  cardToUpgradeSkin: 050000000a0000000f0000001400000019000000
+  skinStats: []

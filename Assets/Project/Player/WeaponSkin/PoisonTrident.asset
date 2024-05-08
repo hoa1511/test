@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50e3f5ef1795ed449866e104665e080c, type: 3}
+  m_Name: PoisonTrident
+  m_EditorClassIdentifier: 
+  itemID: 
+  itemRarity: 2
+  itemType: 2
+  itemName: Poison
+  itemDescription: Poison
+  itemThumpNail: {fileID: 21300000, guid: 49983e80764d7ad4aa7db6a8703489eb, type: 3}
+  weaponId: 1
+  weaponSkinIndex: 2
+  weaponColor: {r: 0, g: 1, b: 0.45585012, a: 1}
+  weaponMaterial: {fileID: 2100000, guid: e8e228d1d586fba4484cdf50547e4251, type: 2}
+  weaponTrailEffect: {fileID: 5525926762504979810, guid: 74af192ebdf9edc438d1d365d4e3ec59, type: 3}
+  levelToUnlock: 5
+  isOwned: 0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 915febe1c76ab0b44a75ad2887e2ae29, type: 3}
+  m_Name: VikingSkin
+  m_EditorClassIdentifier: 
+  itemID: com.hypepoly.trident_master.skin_viking
+  itemRarity: 1
+  itemType: 0
+  itemName: Viking
+  itemDescription: Skin Viking
+  itemThumpNail: {fileID: 21300000, guid: 224374471ccd1904d8ce36d7514ce63a, type: 3}
+  skinId: 1
+  skinIndex: 1
+  skinLevel: 1
+  previewSkin: {fileID: 428593748289954915, guid: 5d7cb3942d7bc124eb5cc96f51d0434b, type: 3}
+  inGameSkin: {fileID: 4506642991904308891, guid: a0025996ccbb20e4b9039ec4244b26a7, type: 3}
+  unknowSkin: {fileID: 428593748289954915, guid: 63b64b38253444d49a5cc180471d2d22, type: 3}
+  numberOfCardToUnlock: 3
+  numberOfCardOwned: 8
+  skinColor: {r: 1, g: 0.42124298, b: 0, a: 1}
+  isOwned: 0
+  cardToUpgradeSkin: 050000000a0000000f0000001400000019000000
+  skinStats: []

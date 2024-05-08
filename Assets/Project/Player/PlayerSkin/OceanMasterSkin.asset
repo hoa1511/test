@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 915febe1c76ab0b44a75ad2887e2ae29, type: 3}
+  m_Name: OceanMasterSkin
+  m_EditorClassIdentifier: 
+  itemID: com.hypepoly.trident_master.skin_ocean_master
+  itemRarity: 5
+  itemType: 0
+  itemName: Ocean Master
+  itemDescription: Ocean Master Skin
+  itemThumpNail: {fileID: 21300000, guid: 60b80e4e38a624b4dbd64790b68222d5, type: 3}
+  skinId: 6
+  skinIndex: 6
+  skinLevel: 1
+  previewSkin: {fileID: 3433772788968755087, guid: 18d4562b2133e1843a96711c3eb58a4b, type: 3}
+  inGameSkin: {fileID: 4720707404225409590, guid: 7d015810e1a49d144afa81df5744e64d, type: 3}
+  unknowSkin: {fileID: 3215048141150939931, guid: 323a372ca546b8d4bba42e1f9a26358d, type: 3}
+  numberOfCardToUnlock: 20
+  numberOfCardOwned: 0
+  skinColor: {r: 0, g: 1, b: 0.4032266, a: 1}
+  isOwned: 0
+  cardToUpgradeSkin: 140000001e00000028000000320000005a000000
+  skinStats:
+  - activeStats: []
+    passiveStats: []
+  - activeStats: []
+    passiveStats: []
+  - activeStats: []
+    passiveStats: []
+  - activeStats: []
+    passiveStats: []
